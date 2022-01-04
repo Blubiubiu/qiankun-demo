@@ -1,2 +1,0 @@
-# qiankun-demo
-demo
